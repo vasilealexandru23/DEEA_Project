@@ -14,4 +14,6 @@ Copyright 2022 Vasile Alexandru-Gabriel (vasilealexandru37@gmail.com)
 * 1x Buzzer
 * 1x HC-SRO4
 * 1x Diode
+* 3x 150 ohm Rezistor
+* 1x 1000 ohm Rezistor
 * 15x male-to-male wires
