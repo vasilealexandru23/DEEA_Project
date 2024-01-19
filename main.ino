@@ -23,7 +23,7 @@ const int lowSound = 250;
 const int timeSound = 2;
 
 /* Speed of light (cm / microseconds). */
-const double lightSpeed = 0.034;
+const double soundSpeed = 0.034;
 
 /* Pins used for RGB diode. */
 const int red = D6;
@@ -77,7 +77,7 @@ void loop()
   duration = pulseIn(echoPin, HIGH);
 
   /* Use formula d = v * t / 2. */
-  distance = duration * lightSpeed / 2;
+  distance = duration * soundSpeed / 2;
 
   /* Show the distance in serial monitor. */
   Serial.println(distance);
