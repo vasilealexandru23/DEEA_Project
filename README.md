@@ -1,4 +1,4 @@
-Copyright 2022 Vasile Alexandru-Gabriel (vasilealexandru37@gmail.com)
+Copyright 2024 Vasile Alexandru-Gabriel (vasilealexandru37@gmail.com)
 
 # DEEA Proiect: Senzor de distanta cu semnale luminoase si acustice.
 
